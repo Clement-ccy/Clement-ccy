@@ -1,11 +1,3 @@
-<style>
-  legend {
-  background-color: #000;
-  color: #fff;
-  padding: 3px 6px;
-}
-</style>
-
 ## Hi, here is Clement-ccy(烨)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox"/>
@@ -16,5 +8,13 @@
 - 😄 I like Music Editing, Singing, Locking Dance, Photographing
 - 💬 If you have any question about me, submit issue in [Issues](https://github.com/Clement-ccy/Clement-ccy/issues)
 - 📫 How to reach me: 319788356@qq.com
+
+<style>
+  legend {
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+  }
+</style>
 
 <legend>Welcome to Clement-ccy's Github profile.</legend>
