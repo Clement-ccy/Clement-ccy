@@ -8,7 +8,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy)
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact)
 
 - 🔭 I’m currently studying in Xi'an JiaoTong University
 - 🌱 I’m currently learning Industrial Design & Interaction Design, Computer Graphic, Artificial Intelligence, Embedded Design, Digital Art in 3D
