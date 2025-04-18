@@ -14,7 +14,7 @@
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
 </div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Achuan-2/Achuan-2/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/Clement-ccy/Clement-ccy/assets/github-contribution-grid-snake.svg" ></div>
 <!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&layout=compact) -->
 
 - 🔭 I’m currently studying in Xi'an JiaoTong University
