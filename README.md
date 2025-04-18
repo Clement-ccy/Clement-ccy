@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox"/>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact)
 
