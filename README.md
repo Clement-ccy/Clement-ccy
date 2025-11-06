@@ -8,14 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox" height='170px' />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact" height='170px' />
 </div>
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Clement-ccy" />
-</div>
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
-</div>
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/Clement-ccy/Clement-ccy/assets/github-contribution-grid-snake.svg" ></div>
-<!-- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&layout=compact) -->
 
 - 🔭 I’m currently studying in Xi'an JiaoTong University
 - 🌱 I’m currently learning Industrial Design & Interaction Design, Computer Graphic, Artificial Intelligence, Embedded Design, Digital Art in 3D
