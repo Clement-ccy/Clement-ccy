@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DClement-ccy&style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D41665455%26isonp%3Djsonp&style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Clement-ccy.Clement-ccy&left_color=2d3f3f&right_color=47645f&style=for-the-badge" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=Clement-ccy&label=Visitors&color=47645f&style=for-the-badge" alt="Visitors">
 </div>
 
 <div align="center">
