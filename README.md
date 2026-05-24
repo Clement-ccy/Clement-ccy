@@ -20,10 +20,10 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&title_color=47645f&text_color=a8a39c&bg_color=1f2124&icon_color=bd9b88&border_color=2a2d31" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clement-ccy&theme=github_dark" alt="Clement's GitHub Stats" width="100%">
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact&title_color=47645f&text_color=a8a39c&bg_color=1f2124&border_color=2a2d31" width="100%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clement-ccy&theme=github_dark" alt="Clement's Top Languages" width="100%">
     </td>
   </tr>
 </table>
