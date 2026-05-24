@@ -23,7 +23,7 @@
   <text x="96" y="84" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="36" font-weight="500" fill="#ece8e1" letter-spacing="-1">Clement</text>
 
   <!-- Subtitle -->
-  <text x="96" y="112" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#a8a39c" letter-spacing="0.3">Design &middot; Code &middot; Create</text>
+  <text x="96" y="112" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#a8a39c" letter-spacing="0.3">Design · Code · Create</text>
 
   <!-- Accent line -->
   <rect x="96" y="128" width="48" height="2.5" rx="1.25" fill="url(#lineGrad)"/>
