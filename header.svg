@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2124"/>
+      <stop offset="100%" stop-color="#2a2d31"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#47645f"/>
+      <stop offset="100%" stop-color="#bd9b88"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- Decorative dots -->
+  <circle cx="32" cy="28" r="3" fill="#47645f" opacity="0.5"/>
+  <circle cx="44" cy="28" r="2" fill="#bd9b88" opacity="0.35"/>
+
+  <!-- Initial box -->
+  <rect x="32" y="60" width="48" height="48" rx="12" fill="#2d3f3f"/>
+  <text x="56" y="90" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="24" font-weight="500" fill="#ece8e1" text-anchor="middle">C</text>
+
+  <!-- Name -->
+  <text x="96" y="84" font-family="Inter, 'SF Pro Display', -apple-system, sans-serif" font-size="36" font-weight="500" fill="#ece8e1" letter-spacing="-1">Clement</text>
+
+  <!-- Subtitle -->
+  <text x="96" y="112" font-family="Inter, -apple-system, sans-serif" font-size="15" font-weight="400" fill="#a8a39c" letter-spacing="0.3">Design &middot; Code &middot; Create</text>
+
+  <!-- Accent line -->
+  <rect x="96" y="128" width="48" height="2.5" rx="1.25" fill="url(#lineGrad)"/>
+
+  <!-- Right decoration -->
+  <line x1="680" y1="52" x2="868" y2="52" stroke="#35393d" stroke-width="1" opacity="0.4"/>
+  <line x1="720" y1="60" x2="868" y2="60" stroke="#35393d" stroke-width="1" opacity="0.25"/>
+  <line x1="760" y1="68" x2="868" y2="68" stroke="#35393d" stroke-width="1" opacity="0.15"/>
+
+  <circle cx="800" cy="124" r="2" fill="#47645f" opacity="0.2"/>
+  <circle cx="820" cy="144" r="1.5" fill="#bd9b88" opacity="0.2"/>
+  <circle cx="840" cy="114" r="1.5" fill="#a8a39c" opacity="0.15"/>
+  <circle cx="850" cy="154" r="1" fill="#47645f" opacity="0.15"/>
+</svg>

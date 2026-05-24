@@ -1,19 +1,97 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Hi%2C+here+is+Clement-ccy(%E7%83%A8)" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg">
+  <img alt="Clement's GitHub Profile Header" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg" width="100%">
+</picture>
+
+<br>
+
 <div align="center">
-  <a title="github" target="_blank" href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/dynamic/json?color=272626&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DClement-ccy" ></a>
-  <a title="zhihu" target="_blank" href="https://www.zhihu.com/people/monster-43-91-98"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=0084ff&label=Zhihu&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmonster-43-91-98&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/PjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+PHN2ZyB0PSIxNjMzMjY1Mzc4NzU2IiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjUxNTMiIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCI+PGRlZnM+PHN0eWxlIHR5cGU9InRleHQvY3NzIj48L3N0eWxlPjwvZGVmcz48cGF0aCBkPSJNNTc2LjggODA3LjUyaDU3LjI4bDIwLjggNzIuNDggMTAwLjgtNzIuNDhoMTQxLjkyVjIyOS4yOEg1NzYuOHogbTY3Ljg0LTUxMy45Mkg4MzJ2NDQ4aC02Ni4yNGwtODUuMTIgNjQuOTYtMTguNTYtNjQuOTZoLTE3LjQ0ek0xMjYuNCA4ODQuNDhhMTQ5LjQ0IDE0OS40NCAwIDAgMCAxMjMuODQtMTAuNGM2MC45Ni0zNiAxMDUuOTItMTk0LjU2IDEwNS45Mi0xOTQuNTZsMTQ0IDE3Ny40NHMxMy4xMi04NC40OC0yLjI0LTEwOC4zMi05OS4wNC0xMTkuODQtOTkuMDQtMTE5Ljg0bC0zNi42NCAzMiAyNi4wOC0xMDQuOTZINTQ0czAtNjEuNzYtMzAuNTYtNjUuMjgtMTI1LjQ0IDAtMTI1LjQ0IDB2LTE5Mkg1MjhzLTEuNi02NC0yOC44LTY0SDI3MC41NmwzNS41Mi0xMDQuNjRzLTU3LjYgMy4zNi03Ny45MiAzOS4zNi04Ni40IDIyMS42LTg2LjQgMjIxLjYgMjEuOTIgMTAuMjQgNTkuMi0xNy4yOGExNDcuNjggMTQ3LjY4IDAgMCAwIDQ5LjI4LTc1LjUybDY3Ljg0LTMuMzZMMzIwIDQ5MS4ycy0xMTYuOTYtMS43Ni0xNDAuNjQgMC0zNy4yOCA2NS4yOC0zNy4yOCA2NS4yOEgzMjBzLTE1LjIgMTA4LjE2LTYwLjk2IDE4Ny4yLTEzMi42NCAxNDAuOC0xMzIuNjQgMTQwLjh6IiBmaWxsPSIjZmZmZmZmIiBwLWlkPSI1MTU0Ij48L3BhdGg+PC9zdmc+&longCache=true" ></a>
-  <a title="bilibili" target="_blank" href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D41665455&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAYAAADimHc4AAAD7ElEQVR4nO2dW9WrMBCFK6ESkFAJSKiESqgEHCABCZWAhEpAAhL2ecik5dDc/pXLBDLfWnlqy0xmJ5BMQnq5CIIgCIIgCIIgCIIgCEIBAHQAemYfrgCunD6wAKAHsEKxALgx+bCQD8/S9tmgVqeDr1lLigDgZvDhXso+K9TyTBQRwRJ8AHjntl0Flh5QRAQK/mKxPeayWx2OXpBNBKiHvi34b7T2MC4pAvW6twR/RwkRKPizBN8CgEcuESj4Lwm+BwBjahEk+H8EwJRKhOaCDzW8e1JLfkUUH1NgmR3XmHffHR1l+72BSs8d7w8U+JDAnZERQMcV+CtUi7dNqFqibB4J7vtrq7xKCuAasbTMXCL4T+5aVk6+2xHUrWdhruAR6HIJcOeu2UHI8zyAe2ytWfEdWz9PVvQ8YAmIQ5dDAB9LFsMVAv8oMO2zAGrC5WNIarRiAuKR9jYEd9pY08aa6uUzIHGRdkgKd8pY0yc1WjEBAqypDYoAG0QAZkQAZkQAZkQAZk4vANQenjsSzS3I/wcSbXU5jQBUkRtdf4Rar90v8kSv3+I3ffCCSpk8I/w+lgDkdI/v2rEp2CaiWm1AsDQLlDAD+dlFXLMeAaCSeLZdaSFE5VUQNot38cKuEeBgAsSuG0flVZBmEanbXfNQAsS0fgBYIn2fIu3/BBMHEyBmDXlFfA8IzeHb+Ems4WAChKykrVA9ZfsQTL57jXzRg4A5wC/A8N4ADiZAZwm2XjW75Qh2KOTfA0p4kygPw28OJcCVgn3nDnYo2EwEYRgGH0qAMyICMCMCMCMCMCMCMCMCMCMCfP3qwHDOQ4AAUekTk8FaBRihJnZdYbvtCGC7LvmkM63GjVDINPFrQgCq5ETXfmMzI90FXzPvfqt7x4rEu/ZaEcCUxFvgz2zO+BUn6UkoaEEAsptiMSX5e8FoRYCN7cVgb4Vq7U/H50Pq4JNP7Qiw8UFnJwcK+tXy+Wj6PLEvPgHSHv5UgwA1IQIwwyFAyLJin9RoxYgAzAQIkPwNmf26busC+OIx5TDqo5nDT+F/SS/9CYzwb+No49zNy2evkYv0LywGGAXUvp6eSneycqOic0w20k7CNgKE7jJunSGLACTCxF27ylmQc98T5MQUH49swd+I0HPXslLKnT0N+wnkrTKi9JZL/L9i1SorMmdeQ4TQQ7OFMxIMzGD45w8nUL1im7efENZLJpgPSw0pfz0cdt4U3230Td/Tvx2R6d2FrHhEWLkq5PELOMsRPHCPnAZGv1xJteL7jbJiaW3sB2nDvPC/osSYvjRQz4cJ6n7KO3rYQL7M+L6nVtfDVRAEQRAEQRAEQRAEIZ5/SAXmdfXaoQsAAAAASUVORK5CYII=&longCache=true" ></a>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&theme=gruvbox" height='170px' />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact" height='170px' />
+  <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DClement-ccy&style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="https://www.zhihu.com/people/monster-43-91-98"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=Zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dmonster-43-91-98&style=for-the-badge&logo=zhihu" alt="Zhihu"></a>
+  <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=Bilibili&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D41665455&style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
 </div>
 
-- 🔭 I’m currently studying in Xi'an JiaoTong University
-- 🌱 I’m currently learning Industrial Design & Interaction Design, Computer Graphic, Artificial Intelligence, Embedded Design, Digital Art in 3D
-- 👯 I’m looking to collaborate on Game
-- 😄 I like Music Editing, Singing, Locking Dance, Photographing
-- 💬 If you have any question about me, submit issue in [Issues](https://github.com/Clement-ccy/Clement-ccy/issues)
-- 📫 How to reach me: 319788356@qq.com
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A8A39C&background=1F2124&center=true&vCenter=true&width=600&lines=Hi%2C+here+is+Clement-ccy(%E7%83%A8)" alt="Typing SVG"></a>
+</div>
 
-# Welcome to Clement-ccy's Github profile.
+<br>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&title_color=47645f&text_color=a8a39c&bg_color=1f2124&icon_color=bd9b88&border_color=2a2d31" width="100%">
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact&title_color=47645f&text_color=a8a39c&bg_color=1f2124&border_color=2a2d31" width="100%">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,blender,git,linux,arduino&theme=dark&perline=11" alt="Skills">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Clement-ccy&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="Trophies" width="100%">
+</div>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clement-ccy&bg_color=1f2124&color=a8a39c&line=47645f&point=bd9b88&area=true&area_color=2d3f3f&hide_border=true" alt="Activity Graph" width="100%">
+
+<br>
+
+<div align="center">
+
+🎓 &nbsp; **Xi'an Jiaotong University** · Industrial Design &amp; Interaction Design  
+🌱 &nbsp; CG · AI · Embedded Systems · 3D Digital Art  
+🎮 &nbsp; Open to game collaborations  
+🎵 &nbsp; Music · Singing · Locking · Photography  
+💬 &nbsp; [Ask me anything](https://github.com/Clement-ccy/Clement-ccy/issues)  
+📫 &nbsp; 319788356@qq.com
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Clement-ccy.Clement-ccy&left_color=2d3f3f&right_color=47645f" alt="Visitors">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
+    </td>
+    <td align="center" width="33%">
+      <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Joke">
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!--
+### WakaTime
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&title_color=47645f&text_color=a8a39c&bg_color=1f2124&border_color=2a2d31&layout=compact" alt="WakaTime">
+-->
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Clement-ccy/Clement-ccy/issues">
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20and%20%E2%98%95-1f2124?style=for-the-badge&labelColor=2d3f3f&color=47645f" alt="Footer">
+  </a>
+</div>
