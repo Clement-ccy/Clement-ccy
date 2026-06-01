@@ -1,0 +1,21 @@
+# Local agent/skill artifacts
+.github/skills/
+
+# macOS filesystem metadata
+.DS_Store
+
+# Editor and IDE metadata
+.idea/
+.vscode/
+
+# Dependency and build artifacts
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
