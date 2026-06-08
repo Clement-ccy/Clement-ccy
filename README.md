@@ -1,4 +1,4 @@
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg">
   <img alt="Clement's GitHub Profile Header" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg" width="100%">
 </picture>
