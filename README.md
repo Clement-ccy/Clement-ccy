@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A8A39C&background=1F2124&center=true&vCenter=true&width=600&lines=Hi%2C+here+is+Clement-ccy(%E7%83%A8)" alt="Typing SVG"></a>
+  <a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A8A39C&background=1F2124&center=true&vCenter=true&width=600&lines=Hi%2C+here+is+Clement-ccy(%E7%83%A8)" alt="Typing SVG"></a>
 </div>
 
 <br>
@@ -32,12 +32,6 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,blender,git,linux,arduino&theme=dark&perline=11" alt="Skills">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clement-ccy&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="Trophies" width="100%">
 </div>
 
 <br>
