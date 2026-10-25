@@ -1,94 +1,100 @@
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg">
-  <img alt="Clement's GitHub Profile Header" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/main/header.svg" width="100%">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./header.svg">
+    <img src="./assets/header.gif" alt="笙锤烨 Sentryea · 一个用工程思维创作、用语言鉴证存在的数字造物者" width="100%">
+  </picture>
+</p>
 
-<br>
+<p align="center">
+  <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/GitHub-Clement--ccy-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub"></a>
+  <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/Bilibili-41665455-C32F19?style=flat-square&logo=bilibili&logoColor=F7F0E2" alt="Bilibili"></a>
+  <img src="https://komarev.com/ghpvc/?username=Clement-ccy&label=Visitors&color=C32F19&style=flat-square" alt="Visitors">
+</p>
 
-<div align="center">
-  <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DClement-ccy&style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=47645f&labelColor=2d3f3f&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D41665455%26isonp%3Djsonp&style=for-the-badge&logo=bilibili" alt="Bilibili"></a>
-  <img src="https://komarev.com/ghpvc/?username=Clement-ccy&label=Visitors&color=47645f&style=for-the-badge" alt="Visitors">
-</div>
+<p align="center">
+  <strong>笙锤烨 · Sentryea</strong><br>
+  多了解一点总不会有错吧！！。
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A8A39C&background=1F2124&center=true&vCenter=true&width=600&lines=Hi%2C+here+is+Clement-ccy(%E7%83%A8)" alt="Typing SVG"></a>
-</div>
+---
 
-<br>
+## About me
 
-<table align="center">
+`a researcher, engineer, designer, and musician (pretend to be).`
+
+Use an engineering approach to break down problems—creating music, writing code, building hardware, and generating visuals—thereby transforming as-yet-unnamed ideas into things that can be seen, heard, and touched.
+
+---
+
+## Three Ways
+
+<table>
   <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clement-ccy&theme=github_dark" alt="Clement's GitHub Stats" width="100%">
+    <td width="33.33%" valign="top">
+      <h3>笙 · Expression</h3>
+      <p>Music, emotion, imagination. Using sound and imagery, transforming feelings into a form that can be shared.</p>
     </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Clement-ccy&theme=github_dark" alt="Clement's Top Languages" width="100%">
+    <td width="33.33%" valign="top">
+      <h3>锤 · Building</h3>
+      <p>Code, hardware, experiments. Take a problem apart, then reassemble it in your own way.</p>
+    </td>
+    <td width="33.33%" valign="top">
+      <h3>烨 · Existence</h3>
+      <p>Personal growth, independent exploration. Along ever-shifting boundaries, leaving behind traces that belong solely to this observer.</p>
     </td>
   </tr>
 </table>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,blender,git,linux,arduino&theme=dark&perline=11" alt="Skills">
-</div>
+## What's going on
 
-<br>
+- 🎓**Academic**: Xi'an Jiaotong University · Industrial Design & Mecanical Engineering
+- 🌱**Content**：CAD · CG · AI · Embedded Systems · 3D Art & Design
+- 🎵**Life**：Music · Singing · Locking · Photography
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clement-ccy&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="Trophies" width="100%">
-</div>
+---
 
-<br>
+## GitHub Preview
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Clement-ccy&bg_color=1f2124&color=a8a39c&line=47645f&point=bd9b88&area=true&area_color=2d3f3f&hide_border=true" alt="Activity Graph" width="100%">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&icon_color=C32F19&border_color=D8CDBA&rank_icon=github" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&border_color=D8CDBA&langs_count=6" alt="Top Languages">
+</p>
 
-<br>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Clement-ccy&background=F7F0E2&border=D8CDBA&stroke=1B1914&ring=C32F19&fire=C32F19&currStreakNum=1B1914&sideNums=1B1914&currStreakLabel=47645F&sideLabels=47645F&dates=6B665E" alt="GitHub Streak">
+</p>
 
-<div align="center">
+---
 
-🎓 &nbsp; **Xi'an Jiaotong University** · Industrial Design &amp; Interaction Design  
-🌱 &nbsp; CG · AI · Embedded Systems · 3D Digital Art  
-🎮 &nbsp; Open to game collaborations  
-🎵 &nbsp; Music · Singing · Locking · Photography  
-💬 &nbsp; [Ask me anything](https://github.com/Clement-ccy/Clement-ccy/issues)  
-📫 &nbsp; 319788356@qq.com
+## 技术栈
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,html,css,figma,blender,git,linux,arduino&theme=light&perline=11" alt="Python, TypeScript, JavaScript, Node.js, HTML, CSS, Figma, Blender, Git, Linux, Arduino">
+</p>
 
-<br>
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+## Contact
 
-<br>
+If you’re interested in collaborating on games, video projects, or research experiments—or if you simply want to chat about what’s currently going on—feel free to reach out.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote">
-    </td>
-    <td align="center" width="50%">
-      <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Joke">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:hello@bot.shengchuiye.com"><img src="https://img.shields.io/badge/Email-hello%40bot.shengchuiye.com-C32F19?style=flat-square&logo=maildotru&logoColor=F7F0E2" alt="Email"></a>
+  <a href="https://github.com/Clement-ccy/Clement-ccy/issues"><img src="https://img.shields.io/badge/Issues-Open%20a%20conversation-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub Issues"></a>
+</p>
 
-<br>
+---
 
-<!--
-### WakaTime
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Clement-ccy&title_color=47645f&text_color=a8a39c&bg_color=1f2124&border_color=2a2d31&layout=compact" alt="WakaTime">
--->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/Clement-ccy/Clement-ccy/issues">
-    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20and%20%E2%98%95-1f2124?style=for-the-badge&labelColor=2d3f3f&color=47645f" alt="Footer">
-  </a>
-</div>
+<p align="center">
+  <sub>笙锤烨 · Sentryea　|　Ink, paper, and the space between.</sub>
+</p>
