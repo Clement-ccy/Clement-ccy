@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/GitHub-Clement--ccy-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub"></a>
-  <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/Bilibili-41665455-C32F19?style=flat-square&logo=bilibili&logoColor=F7F0E2" alt="Bilibili"></a>
+  <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=C32F19&labelColor=1B1914&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D41665455%26jsonp%3Djsonp&style=flat-square&logo=bilibili&logoColor=F7F0E2" alt="Bilibili"></a>
   <img src="https://komarev.com/ghpvc/?username=Clement-ccy&label=Visitors&color=C32F19&style=flat-square" alt="Visitors">
 </p>
 
