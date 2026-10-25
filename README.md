@@ -1,8 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./header.svg">
-    <img src="./assets/header.gif" alt="笙锤烨 Sentryea · 一个用工程思维创作、用语言鉴证存在的数字造物者" width="100%">
-  </picture>
+  <img src="./assets/header.gif" alt="笙锤烨 Sentryea · 一个用工程思维创作、用语言鉴证存在的数字造物者" width="100%">
 </p>
 
 <p align="center">
