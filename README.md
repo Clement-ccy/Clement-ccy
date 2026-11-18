@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Clement-ccy"><img src="https://img.shields.io/badge/GitHub-Clement--ccy-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub"></a>
+  <a href="https://github.com/Sentryea"><img src="https://img.shields.io/badge/GitHub-Sentryea-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub"></a>
   <a href="https://space.bilibili.com/41665455"><img src="https://img.shields.io/badge/dynamic/json?color=C32F19&labelColor=1B1914&label=Bilibili&query=%24.data.follower&suffix=%20followers&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D41665455%26jsonp%3Djsonp&style=flat-square&logo=bilibili&logoColor=F7F0E2" alt="Bilibili"></a>
-  <img src="https://komarev.com/ghpvc/?username=Clement-ccy&label=Visitors&color=C32F19&style=flat-square" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=Sentryea&label=Visitors&color=C32F19&style=flat-square" alt="Visitors">
 </p>
 
 <p align="center">
@@ -55,12 +55,12 @@ Use an engineering approach to break down problems—creating music, writing cod
 ## GitHub Preview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Clement-ccy&show_icons=true&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&icon_color=C32F19&border_color=D8CDBA&rank_icon=github" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clement-ccy&layout=compact&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&border_color=D8CDBA&langs_count=6" alt="Top Languages">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sentryea&show_icons=true&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&icon_color=C32F19&border_color=D8CDBA&rank_icon=github" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sentryea&layout=compact&bg_color=F7F0E2&title_color=1B1914&text_color=4A4742&border_color=D8CDBA&langs_count=6" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Clement-ccy&background=F7F0E2&border=D8CDBA&stroke=1B1914&ring=C32F19&fire=C32F19&currStreakNum=1B1914&sideNums=1B1914&currStreakLabel=47645F&sideLabels=47645F&dates=6B665E" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=Sentryea&background=F7F0E2&border=D8CDBA&stroke=1B1914&ring=C32F19&fire=C32F19&currStreakNum=1B1914&sideNums=1B1914&currStreakLabel=47645F&sideLabels=47645F&dates=6B665E" alt="GitHub Streak">
 </p>
 
 ---
@@ -79,16 +79,16 @@ If you’re interested in collaborating on games, video projects, or research ex
 
 <p align="center">
   <a href="mailto:hello@bot.shengchuiye.com"><img src="https://img.shields.io/badge/Email-hello%40bot.shengchuiye.com-C32F19?style=flat-square&logo=maildotru&logoColor=F7F0E2" alt="Email"></a>
-  <a href="https://github.com/Clement-ccy/Clement-ccy/issues"><img src="https://img.shields.io/badge/Issues-Open%20a%20conversation-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub Issues"></a>
+  <a href="https://github.com/Sentryea/Sentryea/issues"><img src="https://img.shields.io/badge/Issues-Open%20a%20conversation-1B1914?style=flat-square&logo=github&logoColor=F7F0E2" alt="GitHub Issues"></a>
 </p>
 
 ---
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Clement-ccy/Clement-ccy/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sentryea/Sentryea/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sentryea/Sentryea/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sentryea/Sentryea/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 
